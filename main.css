@@ -1,0 +1,42 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    display: flex;
+    height: 100px;
+    background-color: #74b9ff;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.btn {
+    background-color: #81ecec;
+    height: 50px;
+    border: 1px solid green;
+    border-radius: 5px;
+    color: gray;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    margin: 10px 0px 10px 0px;
+}
+
+.card {
+    border: 1px solid gray;
+    height: 200px;
+    margin: 10px 0px 10px 0px;
+}
+
+.btn-block {
+    width: 100%;
+}
+
+
+.container {
+    /* padding: 0px 20px 0px 20px; */
+    padding-left: 20px;
+    padding-right: 20px;
+}
